@@ -7,6 +7,7 @@
 // @run-at          document-end
 // @grant           unsafeWindow
 // @author          hydra_fuzzy
+// @updateURL       https://github.com/RobertFuzzy/Moonwalk-FIX/raw/master/Moonwalk%20FIX.user.js
 // ==/UserScript==
 
 /* RELEASE NOTES
